@@ -1,4 +1,14 @@
-### Hi there 👋
+![Kellie Mogg](https://user-images.githubusercontent.com/67158073/151853228-e91ca501-88a5-4597-8463-f7baf7f8c286.png)
+
+## About me
+
+I am a design minded technologist in Tulsa, OK. My focus is currently in Web and AR/VR/XR Development.
+
+### Connect with me
+
+<a href="https://www.linkedin.com/in/kelliemogg/" target="_blank"><img height="32" width="32" style="padding-right: 20px; padding-left: 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
+<a href="https://twitter.com/kelliemogg" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" /></a>
+<a href="mailto:kelliedmogg@gmail.com" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" /></a>
 
 <!--
 **kelliemogg/kelliemogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
